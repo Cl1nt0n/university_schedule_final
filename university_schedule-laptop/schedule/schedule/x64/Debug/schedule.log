@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\igorc\Downloads\university_schedule-laptop\university_schedule-laptop\schedule\schedule\main.cpp(87,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  schedule.vcxproj -> C:\Users\igorc\Downloads\university_schedule-laptop\university_schedule-laptop\schedule\x64\Debug\schedule.exe
